@@ -1,0 +1,3 @@
+[submodule "octomap_mapping"]
+	path = octomap_mapping
+	url = ./octomap_mapping
