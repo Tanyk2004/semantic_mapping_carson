@@ -1,0 +1,13 @@
+octomap:
+    pointcloud_topic: "cloud_in"
+    tree_type: 1
+    world_frame_id: "/level_mux_map"
+    resolution: 0.05
+    max_range: 8.0
+    raycast_range: 5.0
+    clamping_thres_min: 0.1
+    clamping_thres_max: 0.8
+    occupancy_thres: 0.5
+    prob_hit: 0.7
+    prob_miss: 0.4
+    save_path : "~/map.bt"

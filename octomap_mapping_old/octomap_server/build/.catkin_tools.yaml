@@ -1,0 +1,6 @@
+devel_space: /root/projects/octomap_mapping/octomap_server/devel
+install: false
+install_space: /root/projects/octomap_mapping/octomap_server/install
+profile: default
+source_space: /root/projects/octomap_mapping/octomap_server/src
+workspace: /root/projects/octomap_mapping/octomap_server
